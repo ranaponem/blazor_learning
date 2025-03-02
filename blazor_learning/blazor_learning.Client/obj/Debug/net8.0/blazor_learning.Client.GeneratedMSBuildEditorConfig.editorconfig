@@ -28,6 +28,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/rafae/source/repos/blazor_learning/blazor_learning/blazor_learning.Client/Pages/Demo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/rafae/source/repos/blazor_learning/blazor_learning/blazor_learning.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

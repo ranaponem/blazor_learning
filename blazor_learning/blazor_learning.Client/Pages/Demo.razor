@@ -1,0 +1,24 @@
+﻿@rendermode InteractiveWebAssembly
+@inject IConfiguration config
+
+<h3>Component</h3>
+<p>Heloooo</p>
+<p>@demoinfo</p>
+<p>the current count is @currentCount</p>
+<button class="btn btn-outline-primary" @onclick="increase">+</button>
+
+@code {
+    private int currentCount = 0;
+    private string demoinfo = "";
+
+    protected override void OnInitialized()
+    {
+        demoinfo = config.GetValue<string>("DemoInfo");
+    }
+
+    private void increase()
+    {
+        currentCount++;
+    }
+
+}

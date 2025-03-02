@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rafae\\source\\repos\\blazor_learning\\blazor_learning\\blazor_learning\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\blazor_learning.bundle.scp.css",
+      "PackagePath": "staticwebassets\\blazor_learning.ys9hfwztm2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\source\\repos\\blazor_learning\\blazor_learning\\blazor_learning\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\source\\repos\\blazor_learning\\blazor_learning\\blazor_learning\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\source\\repos\\blazor_learning\\blazor_learning\\blazor_learning\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\source\\repos\\blazor_learning\\blazor_learning\\blazor_learning\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.blazor_learning.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.blazor_learning.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.blazor_learning.props",
+      "PackagePath": "build\\blazor_learning.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.blazor_learning.props",
+      "PackagePath": "buildMultiTargeting\\blazor_learning.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.blazor_learning.props",
+      "PackagePath": "buildTransitive\\blazor_learning.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rafae\\source\\repos\\blazor_learning\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D086EF-3A86-4F50-83CA-C8106033622C}|blazor_learning\\blazor_learning.Client\\blazor_learning.Client.csproj|c:\\users\\rafae\\source\\repos\\blazor_learning\\blazor_learning\\blazor_learning.client\\pages\\demo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0D086EF-3A86-4F50-83CA-C8106033622C}|blazor_learning\\blazor_learning.Client\\blazor_learning.Client.csproj|solutionrelative:blazor_learning\\blazor_learning.client\\pages\\demo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC91465-91DD-420B-B34B-752FBE7A9D65}|blazor_learning\\blazor_learning\\blazor_learning.csproj|c:\\users\\rafae\\source\\repos\\blazor_learning\\blazor_learning\\blazor_learning\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FFC91465-91DD-420B-B34B-752FBE7A9D65}|blazor_learning\\blazor_learning\\blazor_learning.csproj|solutionrelative:blazor_learning\\blazor_learning\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\blazor_learning\\blazor_learning\\blazor_learning\\appsettings.json",
+              "RelativeDocumentMoniker": "blazor_learning\\blazor_learning\\appsettings.json",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\blazor_learning\\blazor_learning\\blazor_learning\\appsettings.json",
+              "RelativeToolTip": "blazor_learning\\blazor_learning\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T20:39:39.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demo.razor",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\blazor_learning\\blazor_learning\\blazor_learning.Client\\Pages\\Demo.razor",
+              "RelativeDocumentMoniker": "blazor_learning\\blazor_learning.Client\\Pages\\Demo.razor",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\blazor_learning\\blazor_learning\\blazor_learning.Client\\Pages\\Demo.razor",
+              "RelativeToolTip": "blazor_learning\\blazor_learning.Client\\Pages\\Demo.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T20:39:17.761Z",
+              "EditorCaption": ""
             }
           ]
         }

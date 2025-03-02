@@ -1,0 +1,7 @@
+C:\Users\rafae\source\repos\blazor_learning\blazor_learning\blazor_learning.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rafae\source\repos\blazor_learning\blazor_learning\blazor_learning.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rafae\source\repos\blazor_learning\blazor_learning\blazor_learning.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rafae\source\repos\blazor_learning\blazor_learning\blazor_learning.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rafae\source\repos\blazor_learning\blazor_learning\blazor_learning.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rafae\source\repos\blazor_learning\blazor_learning\blazor_learning.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rafae\source\repos\blazor_learning\blazor_learning\blazor_learning.Client\obj\Debug\net8.0\staticwebassets.build.json
